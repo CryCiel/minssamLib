@@ -5,7 +5,7 @@
   <li>네이버 도서 검색 API를 사용하여 검색 시 도서 검색 결과 반환</li>
   <li>도서 별 리뷰 작성 및 평점 관리</li>
   <li>관리자 권한을 통한 개별 권한 관리 기능 구현</li>
-  <li>사이트 주소 : http://minssamlib.cafe24.com/</li>
+  <li><del>사이트 주소 : http://minssamlib.cafe24.com/</del></li>
   <li>관리자 아이디 : admin, admin1
 </ul>
 
